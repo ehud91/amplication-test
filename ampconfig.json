@@ -1,0 +1,18 @@
+{
+  "dataServiceGeneratorVersion": "0.7.0",
+  "appInfo": {
+    "name": "My sample app",
+    "description": "Sample App for task management",
+    "version": "0iuz8ih2",
+    "id": "ckgtzt67q1146610s6evj9ndfw",
+    "url": "https://app.amplication.com/ckgtzt67q1146610s6evj9ndfw",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "amplicationTest",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "ckgtzt67q1146610s6evj9ndfw"
+    }
+  }
+}
